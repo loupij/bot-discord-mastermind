@@ -1,0 +1,715 @@
+2025-05-21 17:42:35,360 - INFO - logging in using static token
+2025-05-21 17:42:38,859 - INFO - Shard ID None has connected to Gateway (Session ID: 1df55da02121b0b7c00230194f044bbd).
+2025-05-21 17:42:40,877 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 17:42:40,892 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 283, in on_ready
+    logMessage(f"Synchronisation avec le serveur {serveur.name} ({serveur.id})")
+                                                  ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+[0m
+2025-05-21 17:43:17,104 - INFO - logging in using static token
+2025-05-21 17:43:18,031 - INFO - Shard ID None has connected to Gateway (Session ID: 536e533664e7f5c2be2536424972f094).
+2025-05-21 17:43:20,058 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 17:43:20,060 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 283, in on_ready
+    logMessage(f"Synchronisation avec le serveur {serveur.name} ({serveur.id})")
+                                                  ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+[0m
+2025-05-21 17:43:50,119 - INFO - logging in using static token
+2025-05-21 17:43:51,057 - INFO - Shard ID None has connected to Gateway (Session ID: 065bcd718c3ed8e4e33042b486de0962).
+2025-05-21 17:43:53,066 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 17:43:53,066 - INFO - [34mListe des serveurs : SequenceProxy(dict_values([<Guild id=1351462567230570556 name='Serveur test bot NSI' shard_id=0 chunked=True member_count=3>]))[0m
+2025-05-21 17:43:53,068 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 284, in on_ready
+    logMessage(f"Synchronisation avec le serveur {serveur.name} ({serveur.id})")
+                                                  ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+[0m
+2025-05-21 17:44:17,439 - INFO - logging in using static token
+2025-05-21 17:44:18,510 - INFO - Shard ID None has connected to Gateway (Session ID: f2bd582617ddf9e51d3e316a41002e8e).
+2025-05-21 17:44:20,520 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 17:44:20,520 - INFO - [34mListe des serveurs : <class 'discord.guild.Guild'>[0m
+2025-05-21 17:44:20,522 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 284, in on_ready
+    logMessage(f"Synchronisation avec le serveur {serveur.name} ({serveur.id})")
+                                                  ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+[0m
+2025-05-21 17:44:58,822 - INFO - logging in using static token
+2025-05-21 17:44:59,648 - INFO - Shard ID None has connected to Gateway (Session ID: e89483c8d310fef42b31a406b6da1a75).
+2025-05-21 17:45:01,656 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 17:45:01,657 - INFO - [34mSynchronisation avec le guild Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 17:45:01,851 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 17:45:01,852 - INFO - [34mBot prêt.[0m
+2025-05-21 17:47:55,760 - INFO - logging in using static token
+2025-05-21 17:47:56,977 - INFO - Shard ID None has connected to Gateway (Session ID: bca3c575566cbeb08c53a3f5b9a7ccc9).
+2025-05-21 17:47:58,988 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 17:47:58,988 - INFO - [34mSynchronisation avec le guild Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 17:47:59,173 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 17:47:59,174 - INFO - [34mBot prêt.[0m
+2025-05-21 17:58:34,933 - INFO - logging in using static token
+2025-05-21 17:58:36,156 - INFO - Shard ID None has connected to Gateway (Session ID: c34bbae8e537a31ee7ceadbef4cacaf5).
+2025-05-21 17:58:38,210 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 17:58:38,211 - INFO - [34mSynchronisation avec le guild Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 17:58:38,380 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 17:58:38,380 - INFO - [34mBot prêt.[0m
+2025-05-21 18:00:56,320 - INFO - logging in using static token
+2025-05-21 18:00:57,387 - INFO - Shard ID None has connected to Gateway (Session ID: efa96d929504f4bc7213c40415d8bfdf).
+2025-05-21 18:00:59,399 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:00:59,399 - INFO - [34mSynchronisation avec le guild Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:00:59,581 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:00:59,581 - INFO - [34mBot prêt.[0m
+2025-05-21 18:04:38,621 - INFO - logging in using static token
+2025-05-21 18:04:41,700 - INFO - Shard ID None has connected to Gateway (Session ID: 38fa8ab641ff0478018434145c4fa674).
+2025-05-21 18:04:43,707 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:04:43,707 - INFO - [34mSynchronisation avec le guild Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:04:43,710 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 289, in on_ready
+    await bot.add_cog(Mastermind(bot))
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 786, in add_cog
+    raise TypeError('cogs must derive from Cog')
+TypeError: cogs must derive from Cog
+[0m
+2025-05-21 18:05:10,637 - INFO - logging in using static token
+2025-05-21 18:05:11,512 - INFO - Shard ID None has connected to Gateway (Session ID: 02f253af66dd6e8d7aeeb7dbc351326f).
+2025-05-21 18:05:13,522 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:05:13,522 - INFO - [34mSynchronisation avec le guild Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:05:13,698 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:05:13,698 - INFO - [34mBot prêt.[0m
+2025-05-21 18:10:27,471 - INFO - logging in using static token
+2025-05-21 18:10:28,472 - INFO - Shard ID None has connected to Gateway (Session ID: 13a622125beb2ffe4597aac4eabd6a52).
+2025-05-21 18:10:30,481 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:10:30,483 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 286, in on_ready
+    logMessage(f"Synchronisation avec le guild {guild.name} ({guild.id})")
+                                                ^^^^^
+UnboundLocalError: cannot access local variable 'guild' where it is not associated with a value
+[0m
+2025-05-21 18:10:58,543 - INFO - logging in using static token
+2025-05-21 18:10:59,591 - INFO - Shard ID None has connected to Gateway (Session ID: 5e02060a0ced39e92cfdc9ff2f432330).
+2025-05-21 18:11:01,605 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:11:01,606 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:11:01,802 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:11:01,802 - INFO - [34mBot prêt.[0m
+2025-05-21 18:11:56,819 - INFO - logging in using static token
+2025-05-21 18:11:58,091 - INFO - Shard ID None has connected to Gateway (Session ID: c8a2e8e31a7326e53543ae37a5558be4).
+2025-05-21 18:12:00,110 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:12:00,110 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:12:00,327 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:12:00,328 - INFO - [34mBot prêt.[0m
+2025-05-21 18:12:00,330 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 302, in on_ready
+    logMessage(bot.commands)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 33, in logMessage
+    message = "\033[34m" + message + "\033[0m"
+              ~~~~~~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "set") to str
+[0m
+2025-05-21 18:12:25,765 - INFO - logging in using static token
+2025-05-21 18:12:26,722 - INFO - Shard ID None has connected to Gateway (Session ID: 854dbcb656006069112834e9fa9e669d).
+2025-05-21 18:12:28,737 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:12:28,738 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:13:00,331 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:13:00,332 - INFO - [34mBot prêt.[0m
+2025-05-21 18:13:00,332 - INFO - [34m{<discord.ext.commands.help._HelpCommandImpl object at 0x0000027721138F90>}[0m
+2025-05-21 18:13:32,471 - INFO - [34m============================================================================[0m
+2025-05-21 18:13:32,540 - INFO - [34m[Initialisation] Execution en cours...[0m
+2025-05-21 18:13:32,659 - INFO - [34mSpécifications de la machine de l'utilisateur
+        Système d'exploitation : Windows 10 (Version: 10.0.26100) or Windows 11
+        Architecture machine   : AMD64
+        Processeur             : AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+        RAM Totale (Go)        : 15.34
+        Nombre de CPU          : 8
+        Fréquence Max CPU (MHz): 4000.0
+        GPU                    : NVIDIA GeForce GTX 1650 (4.0 Go, Charge: 11.0%)[0m
+2025-05-21 18:13:32,674 - INFO - logging in using static token
+2025-05-21 18:13:33,722 - INFO - Shard ID None has connected to Gateway (Session ID: d9aff4ed76b02b2889bbe6770df2c77c).
+2025-05-21 18:13:35,737 - INFO - [34m|-> Démarrage en cours.[0m
+2025-05-21 18:13:35,738 - INFO - [34m|-> Synchronisation de 1 serveur(s).[0m
+2025-05-21 18:13:40,750 - INFO - [34m|-> Début la boucle du TDV.[0m
+2025-05-21 18:13:40,750 - ERROR - Unhandled exception in internal background task 'tdv_check'.
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\tasks\__init__.py", line 241, in _loop
+    await self.coro(*args, **kwargs)
+  File "c:\Users\louis\OneDrive\Documents\Projets\bot discord\bot des gens pas très genteux\main.py", line 2568, in tdv_check
+    farm_channel = guild.get_channel(FARM_CHANNEL_ID)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_channel'
+2025-05-21 18:13:41,168 - INFO - [34m|-> Synchronisation terminée.[0m
+2025-05-21 18:13:41,169 - INFO - [34m|-> Connecté en tant que Bot Mastermind#2999[0m
+2025-05-21 18:13:41,170 - INFO - [34m|-> Mot de passe session : ALMCzVmD[0m
+2025-05-21 18:13:41,170 - INFO - [34m|-> Prochain horraire /gambling : 2025-05-21 17:00:00+00:00[0m
+2025-05-21 18:13:41,171 - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\louis\OneDrive\Documents\Projets\bot discord\bot des gens pas très genteux\main.py", line 4172, in on_ready
+    status = "Fermé" if "🔴" in bot.get_guild(GUILD_ID).get_channel(FARM_CHANNEL_ID).name else "Ouvert"
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_channel'
+2025-05-21 18:13:58,482 - INFO - [34m============================================================================[0m
+2025-05-21 18:13:58,482 - INFO - [34m[Initialisation] Execution en cours...[0m
+2025-05-21 18:13:58,557 - INFO - [34mSpécifications de la machine de l'utilisateur
+        Système d'exploitation : Windows 10 (Version: 10.0.26100) or Windows 11
+        Architecture machine   : AMD64
+        Processeur             : AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+        RAM Totale (Go)        : 15.34
+        Nombre de CPU          : 8
+        Fréquence Max CPU (MHz): 4000.0
+        GPU                    : NVIDIA GeForce GTX 1650 (4.0 Go, Charge: 3.0%)[0m
+2025-05-21 18:13:58,567 - INFO - logging in using static token
+2025-05-21 18:13:59,537 - INFO - Shard ID None has connected to Gateway (Session ID: cc1480fa82b9651813bfa623b6bbf107).
+2025-05-21 18:14:01,538 - INFO - [34m|-> Démarrage en cours.[0m
+2025-05-21 18:14:01,538 - INFO - [34m|-> Synchronisation de 1 serveur(s).[0m
+2025-05-21 18:14:06,549 - INFO - [34m|-> Début la boucle du TDV.[0m
+2025-05-21 18:14:06,550 - ERROR - Unhandled exception in internal background task 'tdv_check'.
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\tasks\__init__.py", line 241, in _loop
+    await self.coro(*args, **kwargs)
+  File "c:\Users\louis\OneDrive\Documents\Projets\bot discord\bot des gens pas très genteux\main.py", line 2568, in tdv_check
+    farm_channel = guild.get_channel(FARM_CHANNEL_ID)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_channel'
+2025-05-21 18:14:41,071 - INFO - [34m|-> Synchronisation terminée.[0m
+2025-05-21 18:14:41,072 - INFO - [34m|-> Connecté en tant que Bot Mastermind#2999[0m
+2025-05-21 18:14:41,072 - INFO - [34m|-> Mot de passe session : DnaASM0K[0m
+2025-05-21 18:14:41,072 - INFO - [34m|-> Prochain horraire /gambling : 2025-05-21 17:00:00+00:00[0m
+2025-05-21 18:14:41,072 - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\louis\OneDrive\Documents\Projets\bot discord\bot des gens pas très genteux\main.py", line 4172, in on_ready
+    status = "Fermé" if "🔴" in bot.get_guild(GUILD_ID).get_channel(FARM_CHANNEL_ID).name else "Ouvert"
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_channel'
+2025-05-21 18:22:46,060 - INFO - logging in using static token
+2025-05-21 18:22:48,991 - INFO - Shard ID None has connected to Gateway (Session ID: 883e47c92e5da542490a144cb804125f).
+2025-05-21 18:22:51,001 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:22:51,001 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:22:51,330 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:22:51,331 - INFO - [34mBot prêt.[0m
+2025-05-21 18:22:51,331 - INFO - [34m[<discord.app_commands.commands.Group object at 0x000001E4CE25E0D0>, <discord.app_commands.commands.Group object at 0x000001E4CE277550>][0m
+2025-05-21 18:25:21,138 - INFO - logging in using static token
+2025-05-21 18:25:22,399 - INFO - Shard ID None has connected to Gateway (Session ID: ceaa12e29bca5bf2e86ed916549f01fc).
+2025-05-21 18:25:24,409 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:25:24,410 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:25:24,624 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:25:24,624 - INFO - [34mBot prêt.[0m
+2025-05-21 18:25:24,624 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:26:18,815 - INFO - logging in using static token
+2025-05-21 18:26:19,736 - INFO - Shard ID None has connected to Gateway (Session ID: c8be8ab2bc0c6bb983baf56c4af52a73).
+2025-05-21 18:26:21,744 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:26:21,745 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:26:21,950 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:26:21,950 - INFO - [34mBot prêt.[0m
+2025-05-21 18:26:21,950 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:27:38,950 - INFO - logging in using static token
+2025-05-21 18:27:40,055 - INFO - Shard ID None has connected to Gateway (Session ID: a91c8910a80882833d334efe95b60363).
+2025-05-21 18:27:42,097 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:27:42,104 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 287, in on_ready
+    bot.tree.clear_commands(guild=guild)
+                                  ^^^^^
+UnboundLocalError: cannot access local variable 'guild' where it is not associated with a value
+[0m
+2025-05-21 18:28:04,091 - INFO - logging in using static token
+2025-05-21 18:28:04,945 - INFO - Shard ID None has connected to Gateway (Session ID: 8d792d42d5f716a46db20a29013cd1ea).
+2025-05-21 18:28:06,956 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:28:06,956 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:28:07,130 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:28:07,131 - INFO - [34mBot prêt.[0m
+2025-05-21 18:28:07,131 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:30:12,870 - INFO - logging in using static token
+2025-05-21 18:30:14,112 - INFO - Shard ID None has connected to Gateway (Session ID: 2bd1437d7851ed2777dafc2e3eef7211).
+2025-05-21 18:30:16,119 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:30:16,126 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:30:16,327 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:30:16,327 - INFO - [34mBot prêt.[0m
+2025-05-21 18:30:16,327 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:32:49,366 - INFO - logging in using static token
+2025-05-21 18:32:50,424 - INFO - Shard ID None has connected to Gateway (Session ID: fed54fc3c5cc7824c0fc83728855857d).
+2025-05-21 18:32:52,462 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:32:52,463 - INFO - [34mSynchronisation avec le serveur Serveur test bot NSI (1351462567230570556)[0m
+2025-05-21 18:32:52,627 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:32:52,627 - INFO - [34mBot prêt.[0m
+2025-05-21 18:32:52,628 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:41:28,291 - INFO - logging in using static token
+2025-05-21 18:41:32,412 - INFO - Shard ID None has connected to Gateway (Session ID: fb0ba0122e0bacef2ebc6ac51df2d095).
+2025-05-21 18:41:34,421 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:41:34,422 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:41:34,423 - INFO - [34mBot prêt.[0m
+2025-05-21 18:41:34,423 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:41:48,081 - ERROR - Ignoring exception in command reset
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\hybrid.py", line 537, in _parse_arguments
+    return await super()._parse_arguments(ctx)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 845, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: combinaison is a required argument that is missing.
+2025-05-21 18:42:12,064 - INFO - logging in using static token
+2025-05-21 18:42:19,788 - INFO - Shard ID None has connected to Gateway (Session ID: 2926168d3565d21c66f16ef8d98ec856).
+2025-05-21 18:42:21,799 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:42:21,801 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:42:21,802 - INFO - [34mBot prêt.[0m
+2025-05-21 18:42:21,802 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:43:16,455 - ERROR - Ignoring exception in command jouer
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 213, in jouer
+    await ctx.defer(thinking=True)
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Context.defer() got an unexpected keyword argument 'thinking'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: Context.defer() got an unexpected keyword argument 'thinking'
+2025-05-21 18:43:44,486 - INFO - logging in using static token
+2025-05-21 18:43:45,445 - INFO - Shard ID None has connected to Gateway (Session ID: 4cb209685d9f231efaebd0f442824835).
+2025-05-21 18:43:47,462 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:43:47,464 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:43:47,464 - INFO - [34mBot prêt.[0m
+2025-05-21 18:43:47,465 - INFO - [34m['set', 'reset', 'resoudre', 'couleurs', 'combinaison', 'jouer', 'difficulté', 'infos', 'eval', 'enable'][0m
+2025-05-21 18:47:55,264 - INFO - logging in using static token
+2025-05-21 18:47:56,347 - INFO - Shard ID None has connected to Gateway (Session ID: babc3c04b2a7dcb0e588a0a484b82781).
+2025-05-21 18:47:58,355 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:47:58,357 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:47:58,357 - INFO - [34mBot prêt.[0m
+2025-05-21 18:47:58,359 - WARNING - [33mUne erreur s'est produite : on_ready
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 361, in on_ready
+    logMessage(f"{[command.name for group in bot.tree._get_all_commands() for command in group.commands]}")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 361, in <listcomp>
+    logMessage(f"{[command.name for group in bot.tree._get_all_commands() for command in group.commands]}")
+                                                                                         ^^^^^^^^^^^^^^
+AttributeError: 'HybridAppCommand' object has no attribute 'commands'
+[0m
+2025-05-21 18:48:46,400 - INFO - logging in using static token
+2025-05-21 18:48:47,446 - INFO - Shard ID None has connected to Gateway (Session ID: f9fd03645eba4d9e591c055871106d4a).
+2025-05-21 18:48:49,454 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:48:49,455 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:48:49,456 - INFO - [34mBot prêt.[0m
+2025-05-21 18:58:00,856 - INFO - logging in using static token
+2025-05-21 18:58:01,872 - INFO - Shard ID None has connected to Gateway (Session ID: 03f742f41e23191c494c0aa6a0621807).
+2025-05-21 18:58:03,882 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 18:58:03,884 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 18:58:03,884 - INFO - [34mBot prêt.[0m
+2025-05-21 19:17:21,142 - INFO - logging in using static token
+2025-05-21 19:17:22,167 - INFO - Shard ID None has connected to Gateway (Session ID: 52d105b958812aceb3caf881ff031871).
+2025-05-21 19:17:24,183 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 19:17:24,184 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 19:17:24,185 - INFO - [34mBot prêt.[0m
+2025-05-21 19:20:34,629 - ERROR - Ignoring exception in command tree
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\app_commands\tree.py", line 1151, in wrapper
+    await self._call(interaction)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\app_commands\tree.py", line 1283, in _call
+    command, options = self._get_app_command_options(data)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\app_commands\tree.py", line 1187, in _get_app_command_options
+    raise CommandNotFound(name, parents)
+discord.app_commands.errors.CommandNotFound: Application command 'jeu' not found
+2025-05-21 19:25:55,696 - INFO - logging in using static token
+2025-05-21 19:25:56,685 - INFO - Shard ID None has connected to Gateway (Session ID: c73499763ab5ca9bfecdb401839ce331).
+2025-05-21 19:25:58,698 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 19:25:58,699 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 19:25:58,699 - INFO - [34mBot prêt.[0m
+2025-05-21 19:28:03,048 - INFO - logging in using static token
+2025-05-21 19:28:04,046 - INFO - Shard ID None has connected to Gateway (Session ID: 2405be88839abe4888e429b3b36a6472).
+2025-05-21 19:28:06,062 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 19:28:06,063 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 19:28:06,064 - INFO - [34mBot prêt.[0m
+2025-05-21 19:28:27,778 - WARNING - [33mUne erreur s'est produite : on_message
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 203, in on_message
+    bien, mal = partie.verifier(prop)
+    ^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+[0m
+2025-05-21 19:30:23,531 - INFO - logging in using static token
+2025-05-21 19:30:24,992 - INFO - Shard ID None has connected to Gateway (Session ID: 238ac29a3ab379f5ed2a3dda99199b78).
+2025-05-21 19:30:27,018 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 19:30:27,019 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 19:30:27,020 - INFO - [34mBot prêt.[0m
+2025-05-21 19:35:47,534 - INFO - logging in using static token
+2025-05-21 19:35:48,879 - INFO - Shard ID None has connected to Gateway (Session ID: c84d76cb80a36b474c30a0b17da5e195).
+2025-05-21 19:35:50,894 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 19:35:50,896 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 19:35:50,896 - INFO - [34mBot prêt.[0m
+2025-05-21 19:38:29,388 - INFO - logging in using static token
+2025-05-21 19:38:30,467 - INFO - Shard ID None has connected to Gateway (Session ID: affc731460b4ad06fb9ee7ca23dd72d7).
+2025-05-21 19:38:32,479 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 19:38:32,480 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 19:38:32,481 - INFO - [34mBot prêt.[0m
+2025-05-21 19:56:50,182 - INFO - logging in using static token
+2025-05-21 19:56:51,392 - INFO - Shard ID None has connected to Gateway (Session ID: ea1c885c073eb15e726441705ee0c415).
+2025-05-21 19:56:53,398 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 19:56:53,399 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 19:56:53,401 - INFO - [34mBot prêt.[0m
+2025-05-21 19:59:07,729 - WARNING - Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 411, in <module>
+    bot.run(token, reconnect=True)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 869, in run
+    asyncio.run(runner())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 336, in resoudre
+    solution, essais = solveur.resoudre()
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in resoudre
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in <listcomp>
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+
+2025-05-21 19:59:19,122 - WARNING - Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 411, in <module>
+    bot.run(token, reconnect=True)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 869, in run
+    asyncio.run(runner())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 336, in resoudre
+    solution, essais = solveur.resoudre()
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in resoudre
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in <listcomp>
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+
+2025-05-21 19:59:29,323 - WARNING - Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 411, in <module>
+    bot.run(token, reconnect=True)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 869, in run
+    asyncio.run(runner())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 336, in resoudre
+    solution, essais = solveur.resoudre()
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in resoudre
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in <listcomp>
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+
+2025-05-21 19:59:39,513 - WARNING - Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 411, in <module>
+    bot.run(token, reconnect=True)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 869, in run
+    asyncio.run(runner())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 336, in resoudre
+    solution, essais = solveur.resoudre()
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in resoudre
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in <listcomp>
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+
+2025-05-21 19:59:49,730 - WARNING - Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 411, in <module>
+    bot.run(token, reconnect=True)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 869, in run
+    asyncio.run(runner())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 336, in resoudre
+    solution, essais = solveur.resoudre()
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in resoudre
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in <listcomp>
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+
+2025-05-21 20:00:16,469 - WARNING - Shard ID None heartbeat blocked for more than 60 seconds.
+Loop thread traceback (most recent call last):
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 411, in <module>
+    bot.run(token, reconnect=True)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 869, in run
+    asyncio.run(runner())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 249, in wrapped
+    await command.call_after_hooks(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 893, in call_after_hooks
+    async def call_after_hooks(self, ctx: Context[BotT], /) -> None:
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 150, in _on_sigint
+    def _on_sigint(self, signum, frame, main_task):
+
+2025-05-21 20:00:16,587 - ERROR - Task exception was never retrieved
+future: <Task finished name='discord.py: on_message' coro=<Client._run_event() done, defined at C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py:441> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 336, in resoudre
+    solution, essais = solveur.resoudre()
+                       ^^^^^^^^^^^^^^^^^^
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in resoudre
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\NSI\projet 4 - bot mastermind\main.py", line 248, in <listcomp>
+    essais_possibles = [''.join(p) for p in itertools.product(couleurs, repeat=longueur)]
+                        ^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 869, in run
+    asyncio.run(runner())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1411, in on_message
+    await self.process_commands(message)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1408, in process_commands
+    await self.invoke(ctx)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 249, in wrapped
+    await command.call_after_hooks(ctx)
+  File "C:\Users\louis\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\discord\ext\commands\core.py", line 893, in call_after_hooks
+    async def call_after_hooks(self, ctx: Context[BotT], /) -> None:
+    
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+2025-05-21 20:00:28,017 - INFO - logging in using static token
+2025-05-21 20:00:29,321 - INFO - Shard ID None has connected to Gateway (Session ID: 7c0f115b5d0bce96d1948fc1fb1db4b6).
+2025-05-21 20:00:31,337 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 20:00:31,339 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 20:00:31,339 - INFO - [34mBot prêt.[0m
+2025-05-21 20:46:53,713 - INFO - Shard ID None has successfully RESUMED session 7c0f115b5d0bce96d1948fc1fb1db4b6.
+2025-05-21 20:59:04,147 - INFO - logging in using static token
+2025-05-21 20:59:05,789 - INFO - Shard ID None has connected to Gateway (Session ID: f29ad1ed6d46fdc3370972ff28b303ed).
+2025-05-21 20:59:07,793 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 20:59:07,795 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 20:59:07,796 - INFO - [34mBot prêt.[0m
+2025-05-21 21:00:29,527 - INFO - logging in using static token
+2025-05-21 21:00:30,609 - INFO - Shard ID None has connected to Gateway (Session ID: ef55651e45f5a274f8fc460a994372ac).
+2025-05-21 21:00:32,618 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 21:00:32,620 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 21:00:32,643 - INFO - [34mBot prêt.[0m
+2025-05-21 22:47:11,366 - INFO - Shard ID None has successfully RESUMED session ef55651e45f5a274f8fc460a994372ac.
+2025-05-21 23:33:47,991 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "difficulte" is not found
+2025-05-21 23:34:00,576 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "diffculté" is not found
+2025-05-21 23:38:21,457 - INFO - logging in using static token
+2025-05-21 23:38:22,740 - INFO - Shard ID None has connected to Gateway (Session ID: 99dbb48b4f0c8de3a18b28b6919a11a2).
+2025-05-21 23:38:24,750 - INFO - [34mConnecté en tant que 'Bot Mastermind#2999'[0m
+2025-05-21 23:38:24,751 - INFO - [34mSynchronisation terminée.[0m
+2025-05-21 23:38:24,752 - INFO - [34mBot prêt.[0m
